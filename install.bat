@@ -7,3 +7,4 @@ pipenv run pip install --no-dependencies torchvision==0.11.1+cu102 -f https://do
 
 pipenv run pip install --no-dependencies face-alignment
 pipenv run pip install --no-dependencies numba
+pipenv run pip install --no-dependencies llvmlite
