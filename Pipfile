@@ -32,6 +32,7 @@ flask = "*"
 tensorboard = "*"
 pytest = "*"
 omegaconf = "*"
+dlib-bin = "*"
 
 [requires]
 python_version = "3.8"
